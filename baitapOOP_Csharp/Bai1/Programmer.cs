@@ -11,6 +11,7 @@ namespace Bai1
         private string _skills;
         private DateTime _DOB;
         private int _age;
+        private _address;
 
         public Programmer()
         {
